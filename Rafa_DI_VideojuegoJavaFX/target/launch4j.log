@@ -1,0 +1,54 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\Rafa\Documents\NetBeansProjects\Rafa_DI_VideojuegoJavaFX\target\Rafa_DI_VIdeojuegoJavaFX.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\Rafa\Documents\NetBeansProjects\Rafa_DI_VideojuegoJavaFX\target\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.011.000
+Java max ver:	
+Substitute:	JAVA_HOME = 
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\w64devkit\bin;C:\Users\Rafa\AppData\Local\Programs\Python\Launcher\;C:\Users\Rafa\AppData\Local\Microsoft\WindowsApps;C:\Users\Rafa\.dotnet\tools;C:\Users\Rafa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jre1.8.0_481\bin
+JRE paths:	;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Program Files\dotnet\;C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\w64devkit\bin;C:\Users\Rafa\AppData\Local\Programs\Python\Launcher\;C:\Users\Rafa\AppData\Local\Microsoft\WindowsApps;C:\Users\Rafa\.dotnet\tools;C:\Users\Rafa\AppData\Local\Programs\Microsoft VS Code\bin;C:\Program Files\Java\jre1.8.0_481\bin
+Check launcher:	C:\Program Files\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\java8path\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\Common Files\Oracle\Java\javapath\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\system32\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\Wbem\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\WindowsPowerShell\v1.0\bin\javaw.exe (not found)
+Check launcher:	C:\WINDOWS\System32\OpenSSH\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\dotnet\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\NVIDIA Corporation\NVIDIA App\NvDLISR\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\w64devkit\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Rafa\AppData\Local\Programs\Python\Launcher\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Rafa\AppData\Local\Microsoft\WindowsApps\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Rafa\.dotnet\tools\bin\javaw.exe (not found)
+Check launcher:	C:\Users\Rafa\AppData\Local\Programs\Microsoft VS Code\bin\javaw.exe (not found)
+Check launcher:	C:\Program Files\Java\jre1.8.0_481\bin\javaw.exe (OK)
+Version string: 1.008.000_481 / 64-Bit (Ignore)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_481
+Version string: 1.008.000_481 / 64-Bit (Ignore)
+Ignore:		1.008.000_481
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\24.0.2
+Version string: 1.024.000_002 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe (OK)
+Match:		1.024.000_002
+Runtime used:	1.024.000_002 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-24\bin\javaw.exe
+Launcher args:	-jar "C:\Users\Rafa\Documents\NetBeansProjects\Rafa_DI_VideojuegoJavaFX\target\Rafa_DI_VIdeojuegoJavaFX.exe"
+Args length:	108/32768 chars
+Exit code:	0
